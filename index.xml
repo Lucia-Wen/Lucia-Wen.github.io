@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lu Wen</title><link>https://luciawen.github.io/</link><description>Recent content on Lu Wen</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate/><atom:link href="https://luciawen.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lucia Wen</title><link>https://lucia-wen.github.io/</link><description>Recent content on Lucia Wen</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 19:32:08 -0700</lastBuildDate><atom:link href="https://lucia-wen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://lucia-wen.github.io/about/</link><pubDate>Wed, 02 Jul 2025 19:32:08 -0700</pubDate><guid>https://lucia-wen.github.io/about/</guid><description>&lt;p>Hi, I’m Lu Wen. This is my personal site. Nice to meet you!&lt;/p>
+&lt;ul>
+&lt;li>🧠 AI, Robotics, Reinforcement Learning&lt;/li>
+&lt;li>📝 PhD in Mechinical Engineering, Univercity of Michigan, Ann Arbor&lt;/li>
+&lt;li>🌐 &lt;a href="https://github.com/Lucia-Wen">GitHub&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Hello World</title><link>https://lucia-wen.github.io/posts/hello-world/</link><pubDate>Wed, 02 Jul 2025 18:35:48 -0700</pubDate><guid>https://lucia-wen.github.io/posts/hello-world/</guid><description>&lt;hr>
+&lt;h2 id="date-2025-07-02">title: &amp;ldquo;Hello World&amp;rdquo;
+date: 2025-07-02&lt;/h2>
+&lt;p>Welcome to my new site!&lt;/p></description></item></channel></rss>
